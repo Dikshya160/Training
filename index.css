@@ -96,7 +96,10 @@ p{
     !important;
     height:60vh !important;
     background-image: url(./pngwing.com\ \(1\).png);
+    width: 100% !important;
 
+    background-size: contain;
+    background-repeat: no-repeat;
 
 
 }
